@@ -1,0 +1,23 @@
+.card {
+  with: 100%;
+}
+
+.card-header {
+  text-align: center;
+}
+.card-title {
+  text-align: center;
+}
+
+.btn-light {
+  margin-right: 5px; 
+}
+
+.btn-light img {
+  height: 25px !important;
+  width: auto;
+}
+
+
+
+

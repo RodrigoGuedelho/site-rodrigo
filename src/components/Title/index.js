@@ -7,7 +7,7 @@ export default function Title(){
   return (
     <Row md={3}> 
       <Col />
-      <Col xs={6} md={4}>
+      <Col >
         <center>
           <Image src={imgTitulo} roundedCircle  />
           <h1>Rodrigo Guedelho</h1>

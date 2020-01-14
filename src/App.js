@@ -6,7 +6,7 @@ import Title from './components/Title'
 import CardsStack from './components/CardsStack'
 import CardAbout from './components/CardAbout'
 
-import {Row, Col, Image, Container} from 'react-bootstrap'
+import {Container} from 'react-bootstrap'
 
 import './style.css'
 

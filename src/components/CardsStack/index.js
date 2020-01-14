@@ -10,7 +10,7 @@ export default function CardsStack() {
       <Card>
         <Card.Img variant="top" src={imgNode} />
         <Card.Body>
-          <Card.Title>NodeJS</Card.Title>
+          <Card.Title>Javascript</Card.Title>
           <Card.Text>
             <li>APIs Com typescript e express</li>
             <li>Frontend com reactJS</li>
@@ -43,7 +43,7 @@ export default function CardsStack() {
           <Card.Title>Delphi 2009</Card.Title>
           <Card.Text>
             <li>Aplicações desktop com delphi 2009</li>
-            <li>Relatórios com iReport</li>
+            <li>Relatórios com Fast Report</li>
             <li>Banco de dados mysql.</li>
           </Card.Text>
         </Card.Body>

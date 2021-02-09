@@ -14,7 +14,6 @@ export default function CardsStack() {
           <Card.Text>
             <li>APIs Com typescript e express.</li>
             <li>Frontend com reactJS.</li>
-            <li>Mobile com react native.</li> 
             <li>Banco de dados mysql e postgresSQL com sequelize.</li>
             <li>Banco de dados mongoDB com mongoose.</li>
           </Card.Text>
